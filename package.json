@@ -1,0 +1,11 @@
+{
+  "name": "common.utils.extensions",
+  "version": "1.0.0",
+  "displayName": "Common Extensions",
+  "description": "This package provides some useful extension methods.",
+  "keywords": [],
+  "author": {
+    "name": "Zumwani"
+  },
+  "type": "library"
+}
