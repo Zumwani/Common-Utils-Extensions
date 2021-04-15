@@ -1,2 +1,2 @@
 # Common-Utils-Extensions
- Provides some useful extensions.
+ Provides some useful extensions for unity.
